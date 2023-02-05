@@ -94,7 +94,9 @@ img .woman-codes {
   color: #000566;
 }
 
-.about-title {
+.about-title,
+.contact-title,
+.project-title {
   color: #5c64ff;
 }
 
@@ -109,8 +111,15 @@ img .woman-codes {
 
 .content-container h3 {
   font-size: 24px;
+  color: #000566;
 }
 
 .content-container p {
   font-size: 16px;
+}
+
+.lni-envelope,
+.lni-instagram-original,
+.lni-linkedin-original {
+  color: #5c64ff;
 }
