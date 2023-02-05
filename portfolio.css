@@ -89,6 +89,19 @@ img .woman-codes {
 }
 
 .app-title,
-.app-content {
+.app-content,
+.intro {
   color: #000566;
+}
+
+.about-title {
+  color: #5c64ff;
+}
+
+.about-section {
+  padding: 160px 100px;
+}
+
+.about-section-content {
+  margin: 30px;
 }
