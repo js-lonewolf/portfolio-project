@@ -39,6 +39,7 @@ p {
 }
 
 .btn-branding {
+  font-family: "Mulish", sans-serif;
   background: #6bfff1;
   border-radius: 4px;
   color: #0008a3;
@@ -62,4 +63,32 @@ img .woman-codes {
   font-family: "Mulish", sans-serif;
   font-weight: normal;
   color: #ffffff;
+}
+
+.featured-title h2 {
+  font-size: 40px;
+  color: #5c64ff;
+}
+
+.second-app {
+  margin-top: 80px;
+}
+
+.btn-branding-outline {
+  font-family: "Mulish", sans-serif;
+  color: #4751ff;
+  border: 2px solid #5c64ff;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
+
+.btn-branding-outline:hover {
+  color: #000dff;
+}
+
+.app-title,
+.app-content {
+  color: #000566;
 }
