@@ -1,7 +1,8 @@
 h1,
 h2,
 h3,
-h5 {
+h5,
+h6 {
   font-family: "Philosopher", sans-serif;
   font-weight: 700;
 }
@@ -122,4 +123,32 @@ img .woman-codes {
 .lni-instagram-original,
 .lni-linkedin-original {
   color: #5c64ff;
+}
+
+.nav {
+  padding: 20px 0;
+}
+
+.nav li {
+  display: inline;
+  list-style: none;
+}
+
+.lni-react {
+  font-size: 24px;
+  margin-right: 8px;
+  color: #000dff;
+}
+
+.nav li a {
+  text-decoration: none;
+}
+
+.navbar-nav .navbar-collapse .item-menu {
+  padding: 0 20px !important;
+  font-family: "Mulish", sans-serif !important;
+}
+
+.navbar-nav .item-menu:hover {
+  color: #333dff !important;
 }
